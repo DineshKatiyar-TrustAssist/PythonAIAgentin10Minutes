@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john.smith@gmail.com",
+      "username": "john594",
+      "age": 33,
+      "registeredAt": "2025-03-13T19:55:55.473009"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Jones",
+      "email": "jane.jones@yahoo.com",
+      "username": "jane600",
+      "age": 43,
+      "registeredAt": "2025-09-10T19:55:55.473064"
+    },
+    {
+      "id": 3,
+      "firstName": "Mike",
+      "lastName": "Smith",
+      "email": "mike.smith@hotmail.com",
+      "username": "mike632",
+      "age": 23,
+      "registeredAt": "2025-04-04T19:55:55.473073"
+    }
+  ],
+  "count": 3
+}
